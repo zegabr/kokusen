@@ -19,3 +19,7 @@ extra:
   - [ ] change all colors to black
   - [ ] sleep 100 ms
   - [ ] change colors back
+
+extra2:
+- [ ] make it create a visual block and delete it
+  - [ ] find a way to colapse things to the center of the block
