@@ -1,6 +1,6 @@
 local M = {}
 
-M.kokusen = function ()
+M.hit = function ()
     print("Kokusen!!")
 end
 
