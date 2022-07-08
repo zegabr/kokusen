@@ -9,8 +9,8 @@ TODO:
 - [ ] change the function to open a cool youtube playlist
   - [ ] make it random
 - [ ] on the readme, change the link text to create a little parody of the movement https://jujutsu-kaisen.fandom.com/wiki/Black_Flash
-- [ ] a lot of skill is required === needs to use nvim
-- [ ] it increases the cursed energy awareness == increases the code base awareness
+  - [ ] a lot of skill is required === needs to use nvim
+  - [ ] it increases the cursed energy awareness == increases the code base awareness
 
 extra:
 - [ ] make the nvim screen flashes black quickly before opening the playlist
