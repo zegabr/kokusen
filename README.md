@@ -5,7 +5,7 @@ TODO:
 - [x] create a nvim plugin
 - [ ] vim command (:Kokusen) or both to print a message ("kokusen!!")
   - [x] make it a lua command (:lua kokusen())
-- [ ] change the function to open browser
+- [x] change the function to open browser
 - [ ] change the function to open a cool youtube playlist
   - [ ] make it random
 - [ ] on the readme, change the link text to create a little parody of the movement https://jujutsu-kaisen.fandom.com/wiki/Black_Flash
