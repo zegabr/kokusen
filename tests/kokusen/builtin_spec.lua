@@ -1,0 +1,5 @@
+describe("builtin", function()
+    it("can be required", function()
+        require("kokusen")
+    end)
+end)
