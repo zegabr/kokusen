@@ -2,9 +2,9 @@
 achieve your best coding state
 
 TODO:
-- [ ] create a nvim plugin
+- [x] create a nvim plugin
 - [ ] vim command (:Kokusen) or both to print a message ("kokusen!!")
-  - [ ] make it a lua command (:lua kokusen())
+  - [x] make it a lua command (:lua kokusen())
 - [ ] change the function to open browser
 - [ ] change the function to open a cool youtube playlist
   - [ ] make it random
