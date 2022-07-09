@@ -1,6 +1,6 @@
 # kokusen ([Black Flash](https://jujutsu-kaisen.fandom.com/wiki/Black_Flash))
 
-## Description
+### Description
 achieve your best coding state
 
 
