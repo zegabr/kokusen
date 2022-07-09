@@ -9,7 +9,7 @@ Unleashing Black Flash does not occur randomly and requires immense skill, conce
 Developers who manage to unleash Black Flash immediately gain an immeasurably higher understanding of the essence of the code base when compared to someone who has never used it. Anyone who succeeds in landing Black Flash will temporarily enter a state of increased coding awareness, where the mental process of manipulating code becomes as simple as breathing for them. This leads to a greatly increased performance in software developing, allowing the user to operate at 120% of their maximum potential.
 
 ### Demo
-![kokusen demo](https://user-images.githubusercontent.com/20018825/178114404-05cbcd01-b84f-4b60-8831-d6133b15e692.gif)
+![kokusen demo](https://user-images.githubusercontent.com/20018825/178114641-e0a65ac5-3974-4fd9-a516-7b7f02e8ed14.gif)
 
 
 ### Usage
@@ -35,4 +35,4 @@ This plugin is licensed under MIT license.
 
 # Disclaimer
 - This is not a really usefull plugin. I made this as a joke for ([Black Flash](https://jujutsu-kaisen.fandom.com/wiki/Black_Flash)) only to learn how to create nvim plugins.
-- Using the first mapping (with upper case K) will delete some code on the current vim buffer
+- As black flash is very powerful sing the first mapping (with upper case K) will delete some code on the current vim buffer.
