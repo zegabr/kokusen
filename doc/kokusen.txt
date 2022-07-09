@@ -1,1 +1,4 @@
+==============================================================================
+*kokusen.txt*
+
 See https://github.com/zegabr/kokusen/blob/main/README.md
