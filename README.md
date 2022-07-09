@@ -31,4 +31,6 @@ use('zegabr/kokusen')
 
 This plugin is licensed under MIT license.
 
-PS: I made this as a joke for ([Black Flash](https://jujutsu-kaisen.fandom.com/wiki/Black_Flash)) only to learn how to create nvim plugins.
+# Disclaimer
+- This is not a really usefull plugin. I made this as a joke for ([Black Flash](https://jujutsu-kaisen.fandom.com/wiki/Black_Flash)) only to learn how to create nvim plugins.
+- Using the first mapping (with upper case K) will delete some code on the current vim buffer
