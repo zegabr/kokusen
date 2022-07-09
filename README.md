@@ -8,6 +8,10 @@ Unleashing Black Flash does not occur randomly and requires immense skill, conce
 
 Developers who manage to unleash Black Flash immediately gain an immeasurably higher understanding of the essence of the code base when compared to someone who has never used it. Anyone who succeeds in landing Black Flash will temporarily enter a state of increased coding awareness, where the mental process of manipulating code becomes as simple as breathing for them. This leads to a greatly increased performance in software developing, allowing the user to operate at 120% of their maximum potential.
 
+### Demo
+![kokusen demo](https://user-images.githubusercontent.com/20018825/178114404-05cbcd01-b84f-4b60-8831-d6133b15e692.gif)
+
+
 ### Usage
 Out of the box you have this default keybinding:
 
