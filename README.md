@@ -34,4 +34,4 @@ This plugin is licensed under MIT license.
 
 # Disclaimer
 - This is not a really usefull plugin. I made this as a joke for ([Black Flash](https://jujutsu-kaisen.fandom.com/wiki/Black_Flash)) only to learn how to create nvim plugins.
-- As black flash is very powerful using the first mapping (with upper case K) will delete some code on the current vim buffer.
+- As black flash is very powerful, using the first mapping (with upper case K) will delete some code on the current vim buffer.
