@@ -2,8 +2,9 @@ local M = {}
 
 local music_radios = { -- TODO: add more good playlists here
     "https://www.youtube.com/watch?v=DbepZk4PSiI",
-}
+    "https://www.youtube.com/watch?v=MPozQBHYjEE&list=PLm323Lc7iSW9oSIDihesMJXmMNfh8U59k&index=66",
 
+}
 local function get_random_url()
    return music_radios[math.random(#music_radios)]
 end
