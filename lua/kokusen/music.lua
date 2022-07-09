@@ -1,6 +1,13 @@
 local M = {}
+
+local function get_random_url()
+   return "https://github.com/zegabr/kokusen"
+end
+
 local open_cmd -- this needs to stay outside the function, or it'll re-sniff every time...
-M.open_url = function(url)
+M.get_me_to_the_zone = function()
+
+    local url = get_random_url()
     if not open_cmd then
         if package.config:sub(1,1) == '\\' then -- windows
             open_cmd = function(url)
@@ -24,6 +31,6 @@ M.open_url = function(url)
 end
 
 return M
--- https://www.youtube.com/watch?v=DbepZk4PSiI
+
 -- https://www.youtube.com/watch?v=K6YSuI83X2w&list=PLpt-gF_nwcaXS6LGl3lgzGrxzl8-zfUrr&index=1
 -- https://www.youtube.com/c/Fluidified
