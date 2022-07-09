@@ -1,8 +1,6 @@
 # kokusen
 
 ### Description
-achieve your best coding state
-
 
 Black Flash is a distortion in space that occurs when coding energy is applied within 0.000001 seconds of a keystroke. When a delevoper is able to achieve this, their coding energy flashes black, and the destructive power of their strike is equal to a normal keystroke to the power of 2.5.
 
