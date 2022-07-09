@@ -1,3 +1,5 @@
+
+
 local M = {}
 
 M.weak_hit = function ()
@@ -10,5 +12,10 @@ M.normal_hit = function ()
     require("kokusen.collapse").collapse_space() -- too strong (and annoying)
     M.weak_hit()
 end
+
+-- default mappings
+vim.keymap.set('n', '<leader><leader><leader>k', M.weak_hit, {})
+vim.keymap.set('n', '<leader><leader><leader>K', M.normal_hit, {})
+-- vim command
 
 return M

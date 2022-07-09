@@ -1,7 +1,10 @@
 local M = {}
 
+local music_radios = { -- TODO: add more good playlists here
+    "https://www.youtube.com/watch?v=DbepZk4PSiI",
+}
 local function get_random_url()
-   return "https://github.com/zegabr/kokusen"
+   return music_radios[math.random(#music_radios)]
 end
 
 local open_cmd -- this needs to stay outside the function, or it'll re-sniff every time...
@@ -32,5 +35,3 @@ end
 
 return M
 
--- https://www.youtube.com/watch?v=K6YSuI83X2w&list=PLpt-gF_nwcaXS6LGl3lgzGrxzl8-zfUrr&index=1
--- https://www.youtube.com/c/Fluidified
