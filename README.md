@@ -1,4 +1,4 @@
-# kokusen ([Black Flash](https://jujutsu-kaisen.fandom.com/wiki/Black_Flash))
+# kokusen
 
 ### Description
 achieve your best coding state
@@ -14,6 +14,7 @@ Developers who manage to unleash Black Flash immediately gain an immeasurably hi
 Out of the box you have this default keybinding:
 
     <leader><leader><leader>K   hit your code with a black flash
+    <leader><leader><leader>k   use it without hitting the code (which is less annoying)
 
 ### Installation
 Just use your plugin manager. e.g.
@@ -29,3 +30,5 @@ use('zegabr/kokusen')
 ## License
 
 This plugin is licensed under MIT license.
+
+PS: I made this as a joke for ([Black Flash](https://jujutsu-kaisen.fandom.com/wiki/Black_Flash)) only to learn how to create nvim plugins.
