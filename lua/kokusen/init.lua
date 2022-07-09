@@ -1,5 +1,3 @@
-
-
 local M = {}
 
 M.weak_hit = function ()
@@ -16,6 +14,5 @@ end
 -- default mappings
 vim.keymap.set('n', '<leader><leader><leader>k', M.weak_hit, {})
 vim.keymap.set('n', '<leader><leader><leader>K', M.normal_hit, {})
--- vim command
 
 return M

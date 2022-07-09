@@ -3,6 +3,7 @@ local M = {}
 local music_radios = { -- TODO: add more good playlists here
     "https://www.youtube.com/watch?v=DbepZk4PSiI",
 }
+
 local function get_random_url()
    return music_radios[math.random(#music_radios)]
 end
@@ -11,6 +12,7 @@ local open_cmd -- this needs to stay outside the function, or it'll re-sniff eve
 M.get_me_to_the_zone = function()
 
     local url = get_random_url()
+
     if not open_cmd then
         if package.config:sub(1,1) == '\\' then -- windows
             open_cmd = function(url)
@@ -30,6 +32,7 @@ M.get_me_to_the_zone = function()
             end
         end
     end
+
     open_cmd(url)
 end
 
